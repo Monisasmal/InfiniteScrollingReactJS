@@ -38,5 +38,13 @@ As the user scrolls down, new images are fetched automatically — creating a sm
 4. Keep scrolling to explore more!  
 5. Enjoy a seamless and infinite browsing experience.
 
+## 🧠 What You’ll Learn
+- ✅ How to integrate Unsplash API with Axios  
+- ✅ How to implement infinite scrolling in React  
+- ✅ How to manage API states and loading states  
+- ✅ How to use Styled Components for clean UI  
+- ✅ How to deploy React apps using Vercel
+
+
 
 
