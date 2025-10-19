@@ -7,9 +7,13 @@ As the user scrolls down, new images are fetched automatically — creating a sm
 
 
 ## ✨ Features
+
 📸 **Endless Image Loading** — New images load automatically as you scroll.  
-🎨 **Modern UI** — Styled with Styled Components for a clean and elegant interface.  
-📱 **Fully Responsive** — Works seamlessly on desktop, tablet, and mobile. 
+
+🎨 **Modern UI** — Styled with Styled Components for a clean and elegant interface. 
+
+📱 **Fully Responsive** — Works seamlessly on desktop, tablet, and mobile.
+
 🧠 **Beginner Friendly** — A great project to understand API calls, infinite scrolling, and component-based UI.
 
 ## 🚀 Tech Stack
@@ -22,5 +26,17 @@ As the user scrolls down, new images are fetched automatically — creating a sm
 | 💅 **styled-components**        | Styling the components                   |
 | 🔁 **Infinite Scroll Logic**    | Loading new content on scroll            |
 | 🌐 **Vercel**                   | Hosting & deployment                     |
+
+## 🖼️ Preview
+<img width="1365" height="724" alt="image" src="https://github.com/user-attachments/assets/4d9e07e2-7921-448f-9a27-231aec9f77e5" />
+
+## 🕹️ How to Use
+
+1. Visit the **[Live Demo](https://infinite-scrolling-react-js.vercel.app/)** 🌐  
+2. Scroll down the page.  
+3. Watch as more stunning images load automatically.  
+4. Keep scrolling to explore more!  
+5. Enjoy a seamless and infinite browsing experience.
+
 
 
