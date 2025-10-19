@@ -3,7 +3,11 @@
 A modern, interactive, and visually engaging **React application** that loads beautiful images from [Unsplash] using infinite scrolling.  
 As the user scrolls down, new images are fetched automatically — creating a smooth and endless browsing experience.
 
+----
+
 👉 **Live Demo:** [Infinite Scrolling App](https://infinite-scrolling-react-js.vercel.app/)
+
+----
 
 
 ## ✨ Features
@@ -16,6 +20,8 @@ As the user scrolls down, new images are fetched automatically — creating a sm
 
 🧠 **Beginner Friendly** — A great project to understand API calls, infinite scrolling, and component-based UI.
 
+----
+
 ## 🚀 Tech Stack
 
 | Technology                     | Purpose                                  |
@@ -27,8 +33,12 @@ As the user scrolls down, new images are fetched automatically — creating a sm
 | 🔁 **Infinite Scroll Logic**    | Loading new content on scroll            |
 | 🌐 **Vercel**                   | Hosting & deployment                     |
 
+----
+
 ## 🖼️ Preview
 <img width="1365" height="724" alt="image" src="https://github.com/user-attachments/assets/4d9e07e2-7921-448f-9a27-231aec9f77e5" />
+
+----
 
 ## 🕹️ How to Use
 
@@ -38,12 +48,30 @@ As the user scrolls down, new images are fetched automatically — creating a sm
 4. Keep scrolling to explore more!  
 5. Enjoy a seamless and infinite browsing experience.
 
+----
+
 ## 🧠 What You’ll Learn
 - ✅ How to integrate Unsplash API with Axios  
 - ✅ How to implement infinite scrolling in React  
 - ✅ How to manage API states and loading states  
 - ✅ How to use Styled Components for clean UI  
 - ✅ How to deploy React apps using Vercel
+
+----
+
+**🙋‍♀️ Author**
+
+## Manaswini Sasmal
+
+📲 - 6370094643
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
 
 
 
